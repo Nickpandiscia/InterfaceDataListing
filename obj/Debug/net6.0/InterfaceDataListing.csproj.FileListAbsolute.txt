@@ -1,0 +1,15 @@
+C:\Users\npand\repos\InterfaceDataListing\InterfaceDataListing\bin\Debug\net6.0\InterfaceDataListing.exe
+C:\Users\npand\repos\InterfaceDataListing\InterfaceDataListing\bin\Debug\net6.0\InterfaceDataListing.deps.json
+C:\Users\npand\repos\InterfaceDataListing\InterfaceDataListing\bin\Debug\net6.0\InterfaceDataListing.runtimeconfig.json
+C:\Users\npand\repos\InterfaceDataListing\InterfaceDataListing\bin\Debug\net6.0\InterfaceDataListing.dll
+C:\Users\npand\repos\InterfaceDataListing\InterfaceDataListing\bin\Debug\net6.0\ref\InterfaceDataListing.dll
+C:\Users\npand\repos\InterfaceDataListing\InterfaceDataListing\bin\Debug\net6.0\InterfaceDataListing.pdb
+C:\Users\npand\repos\InterfaceDataListing\InterfaceDataListing\obj\Debug\net6.0\InterfaceDataListing.csproj.AssemblyReference.cache
+C:\Users\npand\repos\InterfaceDataListing\InterfaceDataListing\obj\Debug\net6.0\InterfaceDataListing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\npand\repos\InterfaceDataListing\InterfaceDataListing\obj\Debug\net6.0\InterfaceDataListing.AssemblyInfoInputs.cache
+C:\Users\npand\repos\InterfaceDataListing\InterfaceDataListing\obj\Debug\net6.0\InterfaceDataListing.AssemblyInfo.cs
+C:\Users\npand\repos\InterfaceDataListing\InterfaceDataListing\obj\Debug\net6.0\InterfaceDataListing.csproj.CoreCompileInputs.cache
+C:\Users\npand\repos\InterfaceDataListing\InterfaceDataListing\obj\Debug\net6.0\InterfaceDataListing.dll
+C:\Users\npand\repos\InterfaceDataListing\InterfaceDataListing\obj\Debug\net6.0\ref\InterfaceDataListing.dll
+C:\Users\npand\repos\InterfaceDataListing\InterfaceDataListing\obj\Debug\net6.0\InterfaceDataListing.pdb
+C:\Users\npand\repos\InterfaceDataListing\InterfaceDataListing\obj\Debug\net6.0\InterfaceDataListing.genruntimeconfig.cache
